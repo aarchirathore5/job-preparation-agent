@@ -1,0 +1,13 @@
+Senior Backend Engineer - Platform Team
+
+We are looking for a Senior Backend Engineer to join our platform team.
+
+Requirements:
+- 4+ years of experience building production backend services (required)
+- Strong proficiency in Python and at least one web framework such as Flask or Django (required)
+- Experience designing and optimizing relational databases (required, PostgreSQL preferred)
+- Hands-on experience with Kubernetes for container orchestration in production (required)
+- Experience with event-driven architectures using Kafka or similar (required)
+- Familiarity with CI/CD pipelines (preferred)
+- Experience with Terraform or other infrastructure-as-code tools (preferred)
+- Excellent written and verbal communication skills (preferred)

@@ -1,0 +1,21 @@
+Jordan Lee
+Backend Software Engineer
+
+EXPERIENCE
+Backend Engineer, Fintrack Inc. (2021-2024)
+- Built and maintained REST APIs in Python (Flask) serving 2M+ requests/day.
+- Designed PostgreSQL schemas and optimized slow queries, cutting p95 latency by 40%.
+- Wrote unit and integration tests with pytest; maintained ~85% coverage.
+- Containerized services with Docker and deployed to AWS ECS.
+- Collaborated with product on API design reviews.
+
+Software Engineer, Smallco (2019-2021)
+- Developed internal tooling in Python and JavaScript.
+- Set up CI pipelines using GitHub Actions.
+- Wrote SQL migrations and basic data pipelines with cron jobs.
+
+EDUCATION
+B.S. Computer Science, State University (2019)
+
+SKILLS
+Python, Flask, PostgreSQL, Docker, AWS (ECS, S3), Git, GitHub Actions, pytest, REST API design
